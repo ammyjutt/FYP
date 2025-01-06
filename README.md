@@ -82,14 +82,6 @@ python -m yolox.tools.eval -n yolox-tiny -c path/to/yolox_tiny.pth -b 64 -d 8 --
 
 > **Note**: Currently, only yolox-tiny is supported for evaluation.
 
-## 🔧 Requirements
-
-Go to the main directory and run the following command to install the necessary libraries:
-
-```bash
-pip3 install -v -e .
-```
-
 ## 📫 Contact
 
 Feel free to reach out to me at bsef21m013@pucit.edu.pk for any queries or collaborations. You can use this open-source work for personal usage or education. 
