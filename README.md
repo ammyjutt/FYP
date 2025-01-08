@@ -84,4 +84,4 @@ python -m yolox.tools.eval -n yolox-tiny -c path/to/yolox_tiny.pth -b 64 -d 8 --
 
 ## 📫 Contact
 
-Feel free to reach out to me at bsef21m013@pucit.edu.pk for any queries or collaborations. You can use this open-source work for personal usage or education
+Feel free to reach out to me at bsef21m013@pucit.edu.pk for any queries or collaborations. You can use this open-source work for personal usage or education.
